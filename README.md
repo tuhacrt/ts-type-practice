@@ -1,6 +1,6 @@
-# TypeScript-Starter
+# TypeScript-Type-Practice
 
-A general TypeScript-Starter using : "bun"
+A practice repo for Typescript types
 
 ## License
 
