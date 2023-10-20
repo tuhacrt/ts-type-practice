@@ -1,6 +1,6 @@
 # TypeScript-Type-Practice
 
-A practice repo for Typescript types
+A practice repo for Typescript types.
 
 ## License
 
